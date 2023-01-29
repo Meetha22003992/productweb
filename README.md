@@ -27,6 +27,8 @@ Publish the website in the given URL.
 
 ## Code:
 home.html
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -99,6 +101,8 @@ home.html
 
 
 people.html
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -578,7 +582,10 @@ contact.html
     </body>
 </html>
 
+
 style.css
+
+
 .home{
             height: 700px;
             width: 85%;
